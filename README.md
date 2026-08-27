@@ -62,7 +62,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=raul4223&theme=dark&hide_border=true&background=0D1117&ring=F0A000&fire=E23B2E&currStreakLabel=36D7E5" alt="Sequência de contribuições de Raul">
 </p>
-
-<p align="center">
-  <i>Construindo soluções, uma volta de cada vez.</i>
-</p>
