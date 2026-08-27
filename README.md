@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/raul-pixel-banner.png" alt="RAUL em pixel art com carros de Fórmula 1" width="100%">
+  <img src="./raul-pixel-banner.png" alt="RAUL em pixel art com carros de Fórmula 1" width="100%">
 </p>
 
 <h1 align="center">RAUL</h1>
