@@ -61,16 +61,7 @@
 ## GitHub em números
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raul4223&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f0a000&text_color=f5f5f5&icon_color=36d7e5&include_all_commits=true" alt="Estatísticas do GitHub de Raul">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul4223&layout=compact&hide_border=true&bg_color=0d1117&title_color=f0a000&text_color=f5f5f5" alt="Linguagens mais usadas por Raul">
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=raul4223&theme=dark&hide_border=true&background=0D1117&ring=F0A000&fire=E23B2E&currStreakLabel=36D7E5" alt="Sequência de contribuições de Raul">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raul4223&bg_color=0d1117&color=f5f5f5&line=f0a000&point=36d7e5&area=true&hide_border=true" alt="Gráfico de atividade do GitHub de Raul" width="95%">
 </p>
 
 <p align="center">
